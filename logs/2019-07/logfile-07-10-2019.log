@@ -1,0 +1,8 @@
+DEBUG | 2019-07-10 10:33:21 | [main] main.Main (Main.java:14) - Lancement du jeu
+DEBUG | 2019-07-10 10:34:54 | [main] main.Main (Main.java:14) - Lancement du jeu
+DEBUG | 2019-07-10 10:34:57 | [main] common.Lanceur (Lanceur.java:31) -  choix de jeu : 1
+DEBUG | 2019-07-10 10:34:58 | [main] common.Lanceur (Lanceur.java:34) -  choix de Mode : 1
+DEBUG | 2019-07-10 10:34:58 | [main] common.Jeu (Jeu.java:30) - taille combinaison :4
+DEBUG | 2019-07-10 10:34:58 | [main] common.Jeu (Jeu.java:33) - nombre essai : 10
+DEBUG | 2019-07-10 10:34:58 | [main] common.Jeu (Jeu.java:37) - Mode développeur activé
+DEBUG | 2019-07-10 10:35:02 | [main] common.Lanceur (Lanceur.java:38) -  choix de fin : 3
